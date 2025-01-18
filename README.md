@@ -1,4 +1,4 @@
-# # LLM-Langchain-Cassandra-AstraDB-VectorDB
+# LLM-Langchain-Cassandra-AstraDB-VectorDB
 
 Acknowledgement
 ---
