@@ -1,7 +1,0 @@
-1. Clone repo : git clone git@github.com:SoubhikSinha/LLM-Langchain-Cassandra-AstraDB-VectorDB.git
-
-2. Load the python notebook (PDFQuery_LangChain.ipynb) and the PDF file (budget_speech.pdf) into Google Colab Environment
-
-3. Follow the instructions given in the notebook
-
-4. 
