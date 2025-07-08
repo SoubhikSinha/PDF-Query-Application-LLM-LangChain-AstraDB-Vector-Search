@@ -21,7 +21,7 @@ To query the PDF, the application employs [Similarity Search](https://www.pineco
 ### **1. Clone the Repository**
 Clone the repository to your local machine :
 ```bash
-git clone git@github.com:SoubhikSinha/LLM-Langchain-Cassandra-AstraDB-VectorDB.git
+git clone git@github.com:SoubhikSinha/PDF-Query-Application-LLM-LangChain-AstraDB-Vector-Search.git
 ```
 
 <br>
