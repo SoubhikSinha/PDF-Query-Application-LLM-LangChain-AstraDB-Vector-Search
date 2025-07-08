@@ -1,4 +1,4 @@
-# LLM-Langchain-Cassandra-AstraDB-VectorDB
+# PDF Query Application — LLM + LangChain + AstraDB Vector Search
 
 ## Acknowledgement
 
